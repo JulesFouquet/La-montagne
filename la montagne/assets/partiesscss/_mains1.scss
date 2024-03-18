@@ -1,0 +1,32 @@
+.section img {
+    max-width: 100%;
+    margin-bottom: 60px;
+}
+
+.section {
+padding: 50px 80px;
+text-align: center;
+
+h4::before {
+border: 1px $border;
+}
+}
+
+.massive {
+    width: 500px;
+    margin: 0 auto;
+}
+.massive h2 {
+    font-size: 3rem;
+    margin: 30px 0 20px;
+    text-transform: uppercase;
+}
+.massive p {
+    font-size: 0.9rem;
+    line-height: 28px;
+    margin: 20px 0 30px;
+    font-style: italic;
+}
+
+
+
